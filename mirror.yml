@@ -1,0 +1,49 @@
+name: Elementa battery feed mirror
+
+# Rebuilds the transformed Elementa feed (battery stock -> packages) plus the
+# battery price/stock review CSV. Stock Sync imports the XML; the weekly price
+# job reads the CSV. Runs daily so package stock stays fresh; price changes are
+# only as frequent as Elementa actually changes them.
+
+on:
+  schedule:
+    - cron: "0 5 * * *"        # daily 05:00 UTC  (change to "0 5 * * 1" for weekly / Mondays)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: elementa-mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build mirror
+        env:
+          ELEMENTA_FEED_URL: ${{ secrets.ELEMENTA_FEED_URL }}
+        run: |
+          python transform.py
+          # sanity: the XML must still be a real feed, not an error/block page
+          head -c 200 elementa-feed-mirror.xml | grep -q "<products" || { echo "::error::mirror XML looks wrong"; exit 1; }
+          test -s baterije-pregled.csv || { echo "::error::empty pregled.csv"; exit 1; }
+
+      - name: Commit if changed
+        run: |
+          git config user.name  feed-bot
+          git config user.email feed-bot@users.noreply.github.com
+          git add elementa-feed-mirror.xml baterije-pregled.csv last-run.txt
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update Elementa battery mirror $(date -u +%FT%TZ)"
+            git push
+          fi
