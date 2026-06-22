@@ -1,8 +1,10 @@
-Last successful run: 2026-06-21T18:58:29Z
+Last successful run: 2026-06-22T06:25:31Z
 feed: 8449
-matched: 200
-safe: 170
-charger: 17
-big_swing: 13
-qty_fixed: 200
+matched: 198
+safe: 178
+charger: 15
+big_swing: 0
+pakovanje_mismatch: 5
 no_feed_price: 0
+unit_pack: 111
+unit_single: 87
