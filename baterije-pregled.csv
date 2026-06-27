@@ -15,7 +15,7 @@ XTAR-VC2,44825207734523,2425.0,2400,single,1,,6,6,charger,XTAR-VC2,"USB punjač 
 XTAR-VC8S,47547648737531,6596.0,6528,single,1,,3,3,charger,XTAR-VC8S,Univ. punjač akumulatora do 8 kom. sa displejem
 DUR-AG13/BP5,46332412330235,164.0,172,single,5,Blister 10 kom.,176,176,pakovanje-mismatch,DUR-AG13/BP5,Duracell dugmaste baterije LR44 (2kom.) — 1.5 V
 Energizer-CR2450,48433522901243,232.0,230,single,2,Blister 1 kom.,66,66,pakovanje-mismatch,Energizer-CR2450,Energizer dugmasta litijumska baterija CR2450 1/2
-M700AAA,44822531375355,604.0,604,single,1,Blister 4 kom.,94,94,pakovanje-mismatch,M700AAA,HOME Baterija punjiva AAA — 1.2 V 700 mAh
+M700AAA,44822531375355,604.0,604,single,1,Blister 4 kom.,93,93,pakovanje-mismatch,M700AAA,HOME Baterija punjiva AAA — 1.2 V 700 mAh
 Renata-AG2/10BP,46783604621563,144.0,144,single,1,Blister 10 kom.,9,9,pakovanje-mismatch,RENATA-AG2/10BP,RENATA Baterija AG2 — 1.55 V
 4/5SC-1.2V/1300,45510291816699,232.0,259,single,4,4 kom.,12,12,safe,4/5SC-1.2V/1300,"AGENA Baterija — 1300 mAh, 1.2 V, 5 kom."
 AA/1.2V/1600,47280718643451,242.0,230,single,5,5 kom.,25,25,safe,AA/1.2V/1600,Industrijska punjiva baterija 1600 mAh Agena
@@ -26,8 +26,8 @@ CAM-2430/BP1,44822535536891,192.0,192,single,1,Blister 1 kom.,25,25,safe,CAM-243
 CAM-3LR12/BP1,44822534979835,278.0,278,single,1,Blister 1 kom.,26,26,safe,CAM-3LR12/BP1,Camelion alkalna baterija 4.5V 3LR12 — 4.5 V
 CAM-605/BP1,44822535340283,393.0,393,single,1,Blister 1 kom.,20,20,safe,CAM-605/BP1,Camelion litijumska baterija CR2 — 3 V
 CAM-608/BP1,44822535373051,393.0,393,single,1,Blister 1 kom.,43,43,safe,CAM-608/BP1,Camelion litijumska baterija CR123A — 3 V
-CAM-6F22/BP1G,44822533603579,134.0,134,single,1,Blister 1 kom.,7,7,safe,CAM-6F22/BP1G,CAMELION Baterija cink-karbon 6F22 — 9 V
-CAM-6LR61/BP1,44822533406971,278.0,278,single,1,Blister 1 kom.,90,90,safe,CAM-6LR61/BP1,CAMELION Baterija alkalne 6LR61 — 9 V
+CAM-6F22/BP1G,44822533603579,134.0,134,single,1,Blister 1 kom.,2,2,safe,CAM-6F22/BP1G,CAMELION Baterija cink-karbon 6F22 — 9 V
+CAM-6LR61/BP1,44822533406971,278.0,278,single,1,Blister 1 kom.,85,85,safe,CAM-6LR61/BP1,CAMELION Baterija alkalne 6LR61 — 9 V
 CAM-AG10/BP10,45208003346683,260.0,260,pack,10,Blister 10 kom.,110,11,safe,CAM-AG10/BP10,CAMELION Baterija LR54 — 1.5 V
 CAM-CR1616/BP1,44822534717691,96.0,96,single,1,Blister 1 kom.,11,11,safe,CAM-CR1616/BP1,CAMELION Baterija dugmaste litijumske CR1616 — 3 V
 CAM-CR1620/BP5,44822534652155,106.0,96,single,5,Blister 5 kom.,120,120,safe,CAM-CR1620/BP5,CAMELION Baterija dugmaste litijumske CR1620 — 3 V
@@ -55,7 +55,7 @@ CAM-R03P/BP4,46282488545531,120.0,120,pack,4,Blister 4 kom.,244,61,safe,CAM-R03P
 CAM-R6/8CEL,46279167508731,216.0,216,pack,8,Celofan 8 kom.,120,15,safe,CAM-R6/8CEL,"Camelion cink-oksid baterije AA — 1.5 V, 8 kom"
 CAM-R6P/BP4G,46282481369339,120.0,120,pack,4,Blister 4 kom.,96,24,safe,CAM-R6P/BP4G,"CAMELION Baterija cink-karbon AA (R6) — 1.5 V, 4 kom."
 CR2-3V,44822535110907,384.0,384,single,1,Blister 1 kom.,31,31,safe,CR2-3V,"Panasonic litijumska baterija CR2 — 3 V, 850 mAh"
-DUR-6LF22/BP1,47476093387003,537.0,537,single,1,Blister 1 kom.,217,217,safe,DUR-6LF22/BP1,Duracell alkalna baterija 9V
+DUR-6LF22/BP1,47476093387003,537.0,537,single,1,Blister 1 kom.,215,215,safe,DUR-6LF22/BP1,Duracell alkalna baterija 9V
 DUR-A23/BP5,46279148503291,860.0,860,pack,5,Blister 5 kom.,220,44,safe,DUR-A23/BP5,"Duracell alkalne baterije 23A — 12 V, 5 kom"
 DUR-CR2016/BP5,46279149125883,860.0,860,pack,5,Blister 5 kom.,150,30,safe,DUR-CR2016/BP5,"Duracell dugmaste baterije CR2016 — 3 V, 5 kom"
 DUR-CR2025/BP5,46287957393659,860.0,860,pack,5,Blister 5 kom.,90,18,safe,DUR-CR2025/BP5,"Duracell dugmaste baterije CR2025 — 3 V, 5 kom"
@@ -127,10 +127,10 @@ Renata-CR1616,44822536388859,153.0,153,single,1,Blister 1 kom.,12,12,safe,RENATA
 Renata-CR1620,44822536421627,153.0,153,single,1,Blister 1 kom.,26,26,safe,RENATA-CR1620,Renata dugmasta litijumska baterija CR1620 — 3 V
 Renata-CR1632,44822536454395,163.0,163,single,1,Blister 1 kom.,18,18,safe,RENATA-CR1632,Renata dugmasta litijumska baterija CR1632 — 3 V
 Renata-CR2016,44822536487163,67.0,67,single,1,Blister 1 kom.,24,24,safe,RENATA-CR2016,Renata dugmasta litijumska baterija CR2016 — 3 V
-Renata-CR2025,44822536519931,67.0,67,single,1,Blister 1 kom.,21,21,safe,RENATA-CR2025,Renata dugmasta litijumska baterija CR2025 — 3 V
+Renata-CR2025,44822536519931,67.0,67,single,1,Blister 1 kom.,1,1,safe,RENATA-CR2025,Renata dugmasta litijumska baterija CR2025 — 3 V
 Renata-CR2325,47884518654203,201.0,201,single,1,Blister 1 kom.,6,6,safe,Renata-CR2325,Renata dugmasta litijumska baterija CR2325
 Renata-CR2430,46972114469115,211.0,211,single,1,Blister 1 kom.,20,20,safe,RENATA-CR2430,"RENATA Baterija — CR2430, 3 V"
-Renata-CR2450N,44822536618235,230.0,230,single,1,Blister 1 kom.,-10,-10,safe,RENATA-CR2450N,Renata dugmasta litijumska baterija CR2450N — 3 V
+Renata-CR2450N,44822536618235,230.0,230,single,1,Blister 1 kom.,0,0,safe,RENATA-CR2450N,Renata dugmasta litijumska baterija CR2450N — 3 V
 Renata-ZA10/BP6,46279160299771,456.0,456,pack,6,Blister 6 kom.,12,2,safe,RENATA-ZA10/BP6,"Renata baterije za slušni aparat ZA10 — 1.45 V, 6 kom"
 Renata-ZA13/BP6,46279156760827,456.0,456,pack,6,Blister 6 kom.,186,31,safe,RENATA-ZA13/BP6,"Renata baterije za slušni aparat ZA13 — 1.45 V, 6 kom"
 Renata-ZA312/BP6,46279155319035,456.0,456,pack,6,Blister 6 kom.,30,5,safe,RENATA-ZA312/BP6,"RENATA Baterija dugmaste za slušni aparat ZA312 — 1.45 V, 6 kom."
