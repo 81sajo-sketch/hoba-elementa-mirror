@@ -110,15 +110,11 @@ GP-LR20/2BPnd,46288062906619,613.0,613,pack,2,Blister 2 kom.,76,38,safe,GP-LR20/
 GP-SAG13/10,46279183499515,260.0,260,pack,10,Blister 10 kom.,800,80,safe,GP-SAG13/10,GP Baterija dugmaste alkalne LR44 — 1.5 V
 LP18650-2600,44822535569659,556.0,556,single,1,1 kom.,18,18,safe,LP18650-2600,Industrijska punjiva baterija 2600 mAh 18650 — 2600 mAh
 LS14250/3.6V/1.2,44822537076987,768.0,768,single,1,1 kom.,31,31,safe,LS14250/3.6V/1.2,"Saft LS litijumska baterija 1.2Ah — 3.6 V, 1200 mAh"
-MAX-6LR61/BL1,44822534095099,220.0,220,single,1,Blister 1 kom.,0,0,safe,MAX-6LR61/BL1,MAXELL Baterija alkalne 6LR61 — 9 V
 MAX-CR2032/BL5,46305898922235,380.0,380,pack,5,Blister 5 kom.,5,1,safe,MAX-CR2032/BL5,MAXELL Baterija dugmaste litijumske CR2032 — 3 V
 MAX-LR03/BL4,46305769554171,227.0,227,pack,4,Blister 4 kom.,1688,422,safe,MAX-LR03/BL4,MAXELL Baterija alkalne AAA — 1.5 V
-MAX-LR06/BL4,46288000975099,227.0,227,pack,4,Blister 4 kom.,0,0,safe,MAX-LR06/BL4,MAXELL Baterija alkalne AA — 1.5 V
 Renata-317/10BP,46361523519739,1239.0,1239,pack,10,Blister 10 kom.,0,0,safe,RENATA-317/10BP,RENATA Baterija SR516 — 1.55 V
 Renata-379/10BP,47406079181051,855.0,855,pack,10,Blister 10 kom.,10,1,safe,Renata-379/10BP,Renata srebro oksid baterija SR521 — pak. 10 kom
 Renata-AG10/BP10,46279162069243,1719.0,1719,pack,10,Blister 10 kom.,30,3,safe,RENATA-AG10/BP10,"Renata srebro oksid baterija AG10 — 1.55 V, 10 kom"
-Renata-AG13/BP10,46282388898043,2199.0,2199,pack,10,Blister 10 kom.,0,0,safe,RENATA-AG13/BP10,RENATA Baterija dugmaste srebro oksid AG13 / 357 — 1.55 V
-Renata-AG3/BP10,46279161839867,1719.0,1719,pack,10,Blister 10 kom.,0,0,safe,RENATA-AG3/BP10,"Renata srebro oksid baterija AG3 — 1.55 V, 10 kom"
 Renata-AG4/BP10,46279163183355,663.0,663,pack,10,Blister 10 kom.,30,3,safe,RENATA-AG4/BP10,"Renata srebro oksid baterija AG4 — 1.55 V, 10 kom"
 Renata-AG5/10BP,46279151517947,2391.0,2391,pack,10,Blister 10 kom.,10,1,safe,RENATA-AG5/10BP,"Renata srebro oksid baterija AG5 — 1.55 V, 10 kom"
 Renata-AG6/BP10,46279163379963,951.0,951,pack,10,Blister 10 kom.,20,2,safe,RENATA-AG6/BP10,"Renata srebro oksid baterija AG6 — 1.55 V, 10 kom"
@@ -148,12 +144,12 @@ VAR-CR2032/BP1,44822532915451,144.0,144,single,1,Blister 1 kom.,270,270,safe,VAR
 VAR-HE-LR03/BL4,46282396565755,457.0,457,pack,4,Blister 4 kom.,444,111,safe,VAR-HE-LR03/BL4,VARTA Baterija alkalne mangan AAA — 1.5 V
 VAR-HE-LR06/BL4,46282406396155,457.0,457,pack,4,Blister 4 kom.,480,120,safe,VAR-HE-LR06/BL4,VARTA Baterija alkalne mangan AA — 1.5 V
 VAR-LR03/4BL,46288049733883,342.0,342,pack,4,Blister 4 kom.,36,9,safe,VAR-LR03/4BL,"VARTA Baterija alkalne AAA (LR03) — 1.5 V, 4 kom."
-VAR-LR03/BL10,48856671420667,663.0,663,pack,10,Blister 10 kom.,420,42,safe,VAR-LR03/BL10,Varta alkalne baterije AAA Longlife — pak. 10 kom
+VAR-LR03/BL10,48856671420667,663.0,759,pack,10,Blister 10 kom.,420,42,safe,VAR-LR03/BL10,Varta alkalne baterije AAA Longlife — pak. 10 kom
 VAR-LR03/BP10,46274290057467,759.0,759,pack,10,Blister 10 kom.,210,21,safe,VAR-LR03/BP10,"VARTA Baterija — AAA, 1.5 V"
 VAR-LR06/BP4,46305917108475,342.0,342,pack,4,Blister 4 kom.,300,75,safe,VAR-LR06/BP4,VARTA Baterija alkalne mangan AA — 1.5 V
 VAR-LR14/2BL,46287861842171,383.0,383,pack,2,Blister 2 kom.,118,59,safe,VAR-LR14/2BL,VARTA Baterija alkalne mangan C — 1.5 V
 VAR-LR20/BP2,46287871901947,536.0,536,pack,2,Blister 2 kom.,114,57,safe,VAR-LR20/BP2,"VARTA Baterija alkalne mangan D (LR20) — 1.5 V, 2 kom."
-VAR-LR6/BL10,48856672207099,663.0,663,pack,10,Blister 10 kom.,590,59,safe,VAR-LR6/BL10,Varta alkalne baterije AA Longlife — pak. 10 kom
+VAR-LR6/BL10,48856672207099,663.0,759,pack,10,Blister 10 kom.,590,59,safe,VAR-LR6/BL10,Varta alkalne baterije AA Longlife — pak. 10 kom
 VAR-LR6/BP10,46279142113531,759.0,759,pack,10,Blister 10 kom.,180,18,safe,VAR-LR6/BP10,"Varta alkalne baterije AA — 1.5 V, 10 kom"
 VAR-NH-AA2100/BP4,46274325414139,1571.0,1571,pack,4,Blister 4 kom.,132,33,safe,VAR-NH-AA2100/BP4,"Varta punjive baterije AA 2100 mAh — 1.2 V, 2100 mAh, 4 kom"
 VAR-NH-AAA800/BP4,46274325774587,1187.0,1187,pack,4,Blister 4 kom.,200,50,safe,VAR-NH-AAA800/BP4,"Varta punjive baterije AAA 800 mAh — 1.2 V, 800 mAh, 4 kom"
