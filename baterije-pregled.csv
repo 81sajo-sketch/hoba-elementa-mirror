@@ -13,6 +13,13 @@ XTAR-SC1,44822535667963,1018.0,1008,single,1,,1,1,charger,XTAR-SC1,"USB brzi pun
 XTAR-SC2,44822535700731,2037.0,2016,single,1,,5,5,charger,XTAR-SC2,"USB brzi punjač akumulatora do 2 kom. — Li-ion, 2 ćelija"
 XTAR-VC2,44825207734523,2425.0,2400,single,1,,6,6,charger,XTAR-VC2,"USB punjač akumulatora do 2 kom. sa displejem — Li-ion, 2 ćelija"
 XTAR-VC8S,47547648737531,6596.0,6528,single,1,,3,3,charger,XTAR-VC8S,Univ. punjač akumulatora do 8 kom. sa displejem
+BN207822,45021496639739,281.0,278,single,1,4 kom.,16,16,pakovanje-mismatch,BN207822,Organizator kablova 4 kom.
+BN207823,45021496738043,242.0,240,single,1,2 kom.,8,8,pakovanje-mismatch,BN207823,Organizator kablova 2 kom.
+BN207824,45021496574203,329.0,326,single,1,2 kom.,13,13,pakovanje-mismatch,BN207824,Organizator kablova 2 kom.
+BN207825,45021496410363,194.0,192,single,1,2 kom.,3,3,pakovanje-mismatch,BN207825,Organizator kablova 2 kom.
+BN207826,45021496508667,320.0,316,single,1,"2 x šestostruki, 2 x trostruki, 6 x jednostruki",9,9,pakovanje-mismatch,BN207826,Organizator kablova 10 kom.
+CMK-422-4,48897516306683,870.0,428,pack,5,10 kom.,2410,482,pakovanje-mismatch,CMK-422-4,"Bezvij. spojnica-klemna, 2P/4P 0.2-4 mm² 450V/32A — pak. 10 kom"
+CT-SET,45021493395707,291.0,288,single,1,100 kom.,84,84,pakovanje-mismatch,CT-SET,Set kablovskih vezica - 100 kom.
 DUR-AG13/BP5,46332412330235,164.0,172,single,5,Blister 10 kom.,176,176,pakovanje-mismatch,DUR-AG13/BP5,Duracell dugmaste baterije LR44 (2kom.) — 1.5 V
 Energizer-CR2450,48433522901243,232.0,230,single,2,Blister 1 kom.,66,66,pakovanje-mismatch,Energizer-CR2450,Energizer dugmasta litijumska baterija CR2450 1/2
 M700AAA,44822531375355,604.0,604,single,1,Blister 4 kom.,72,72,pakovanje-mismatch,M700AAA,HOME Baterija punjiva AAA — 1.2 V 700 mAh
@@ -54,6 +61,19 @@ CAM-NH-AAA800/BP2,46282423206139,536.0,536,pack,2,Blister 2 kom.,154,77,safe,CAM
 CAM-R03P/BP4,46282488545531,120.0,120,pack,4,Blister 4 kom.,224,56,safe,CAM-R03P/BP4,CAMELION Baterija cink-karbon AAA — 1.5 V
 CAM-R6/8CEL,46279167508731,216.0,216,pack,8,Celofan 8 kom.,120,15,safe,CAM-R6/8CEL,"Camelion cink-oksid baterije AA — 1.5 V, 8 kom"
 CAM-R6P/BP4G,46282481369339,120.0,120,pack,4,Blister 4 kom.,76,19,safe,CAM-R6P/BP4G,"CAMELION Baterija cink-karbon AA (R6) — 1.5 V, 4 kom."
+CMK-202,48897516241147,280.0,267,pack,20,20 kom.,6760,338,safe,CMK-202,"Ubodna klemna 2P, 450V/24A, 0.5-2.5 mm² — pak. 20 kom"
+CMK-203,48897516339451,360.0,348,pack,20,20 kom.,6760,338,safe,CMK-203,"Ubodna klemna 3P, 450V/24A, 0.5-2.5 mm² — pak. 20 kom"
+CMK-204,48897516372219,420.0,404,pack,20,20 kom.,2900,145,safe,CMK-204,"Ubodna klemna 4P, 450V/24A, 0.5-2.5 mm² — pak. 20 kom"
+CMK-205,48897516437755,480.0,461,pack,20,20 kom.,2840,142,safe,CMK-205,"Ubodna klemna 5P, 450V/24A, 0.5-2.5 mm² — pak. 20 kom"
+CMK-206,48897516536059,580.0,557,pack,20,20 kom.,2900,145,safe,CMK-206,"Ubodna klemna 6P, 450V/24A, 0.5-2.5 mm² — pak. 20 kom"
+CMK-208,48897516568827,680.0,672,pack,20,20 kom.,1860,93,safe,CMK-208,"Ubodna klemna 8P, 450V/24A, 0.5-2.5 mm² — pak. 20 kom"
+CMK-422-6,48897516404987,580.0,572,pack,5,5 kom.,1395,279,safe,CMK-422-6,"Bezvij. spojnica-klemna, 2P/6P 0.2-4 mm² 450V/32A — pak. 5 kom"
+CMK-423,48897516273915,580.0,567,pack,10,10 kom.,2280,228,safe,CMK-423,"Bezvij. spojnica-klemna, 3P/3P 0.2-4 mm² 450V/32A — pak. 10 kom"
+CMK-423-6,48897516470523,775.0,764,pack,5,5 kom.,925,185,safe,CMK-423-6,"Bezvij. spojnica-klemna, 3P/6P 0.2-4 mm² 450V/32A — pak. 5 kom"
+CMK-632,48894116593915,440.0,423,pack,20,20 kom.,4340,217,safe,CMK-632,"Bezvijačna spojnica-klemna, 2P 0.2-2.5 mm² 450V/32A — pak. 20 kom"
+CMK-634,48894117183739,740.0,730,pack,20,20 kom.,2160,108,safe,CMK-634,"Bezvijačna spojnica-klemna, 4P 0.2-2.5 mm² 450V/32A — pak. 20 kom"
+CMK-635,48894117806331,840.0,826,pack,20,20 kom.,2380,119,safe,CMK-635,"Bezvijačna spojnica-klemna, 5P 0.2-2.5 mm² 450V/32A — pak. 20 kom"
+CMK823-1.5/3P,48897516503291,260.0,240,pack,20,20 kom.,4720,236,safe,CMK823-1.5/3P,"Bezvijačna luster klemna 3P, 400V/5A, 0.2-1.5 mm² — pak. 20 kom"
 CR2-3V,44822535110907,384.0,384,single,1,Blister 1 kom.,27,27,safe,CR2-3V,"Panasonic litijumska baterija CR2 — 3 V, 850 mAh"
 DUR-6LF22/BP1,47476093387003,537.0,537,single,1,Blister 1 kom.,215,215,safe,DUR-6LF22/BP1,Duracell alkalna baterija 9V
 DUR-A23/BP5,46279148503291,860.0,860,pack,5,Blister 5 kom.,215,43,safe,DUR-A23/BP5,"Duracell alkalne baterije 23A — 12 V, 5 kom"
@@ -112,6 +132,8 @@ LP18650-2600,44822535569659,556.0,556,single,1,1 kom.,3,3,safe,LP18650-2600,Indu
 LS14250/3.6V/1.2,44822537076987,768.0,768,single,1,1 kom.,31,31,safe,LS14250/3.6V/1.2,"Saft LS litijumska baterija 1.2Ah — 3.6 V, 1200 mAh"
 MAX-CR2032/BL5,46305898922235,380.0,380,pack,5,Blister 5 kom.,205,41,safe,MAX-CR2032/BL5,MAXELL Baterija dugmaste litijumske CR2032 — 3 V
 MAX-LR03/BL4,46305769554171,227.0,227,pack,4,Blister 4 kom.,1688,422,safe,MAX-LR03/BL4,MAXELL Baterija alkalne AAA — 1.5 V
+PCS5,47188057194747,1700.0,1632,pack,100,100 komada,200,2,safe,PCS5,Stopica AMP M — pak. 100 kom
+RK-PM81,48554449010939,480.0,471,pack,10,10 kom.,50,5,safe,RK-PM81,"Keramička redna stezaljka 2x4 mm², 15A — pak. 10 kom"
 Renata-317/10BP,46361523519739,1239.0,1239,pack,10,Blister 10 kom.,0,0,safe,RENATA-317/10BP,RENATA Baterija SR516 — 1.55 V
 Renata-379/10BP,47406079181051,855.0,855,pack,10,Blister 10 kom.,10,1,safe,Renata-379/10BP,Renata srebro oksid baterija SR521 — pak. 10 kom
 Renata-AG10/BP10,46279162069243,1719.0,1719,pack,10,Blister 10 kom.,30,3,safe,RENATA-AG10/BP10,"Renata srebro oksid baterija AG10 — 1.55 V, 10 kom"
@@ -132,6 +154,7 @@ Renata-ZA312/BP6,46279155319035,456.0,456,pack,6,Blister 6 kom.,30,5,safe,RENATA
 Renata-ZA675/BP6,46279154893051,456.0,456,pack,6,Blister 6 kom.,18,3,safe,RENATA-ZA675/BP6,"Renata baterije za slušni aparat ZA675 — 1.45 V, 6 kom"
 SC(F)-1.2/2000,44822533243131,300.0,326,single,4,4 kom.,8,8,safe,SC(F)-1.2/2000,AGENA Baterija punjiva SC — 1.2 V 2000 mAh
 SC/1.2V/3000,47031362224379,451.0,451,single,1,1 kom.,12,12,safe,SC/1.2V/3000,"AGENA Baterija — 3000 mAh, 1.2 V"
+SV5,47191389012219,2500.0,2400,pack,100,100 komada,100,1,safe,SV5,"Viljuška AMP 5,3mm — pak. 100 kom"
 T18650/2200,48435576963323,691.0,691,single,1,1 kom.,14,14,safe,T18650/2200,"Technik litijum jonska baterija 18650 2200mAh 3,7V"
 T18650/3400,48435576996091,1276.0,1276,single,1,1 kom.,8,8,safe,T18650/3400,"Technik litijum jonska baterija 18650 3400mAh 3,7V"
 VAR-3R12/BP1,44822532882683,268.0,268,single,1,Blister 1 kom.,39,39,safe,VAR-3R12/BP1,VARTA Baterija cink-karbon 3R12 — 4.5 V
