@@ -1,13 +1,19 @@
 #!/usr/bin/env python3
 """
-Elementa battery feed transform (mirror).
+Elementa feed transform (mirror).
 
 Why this exists
 ---------------
-Elementa sells batteries PER PIECE; Hoba sells SOME as full packages and SOME as
+Elementa sells PER PIECE; Hoba sells SOME items as full packages and SOME as
 single pieces (cut from a blister). So the correct unit differs per product:
   * package price = CEILING(piece_price * 0.96 * pack_size); package stock = FLOOR(pieces / pack_size)
   * single  price = CEILING(piece_price * 0.96);             single  stock = pieces (no division)
+
+Scope: products tagged BATERIJE (batteries) OR PAKOVANJE (other pack-sold items
+such as terminal connectors / klemne). Both flow through the SAME unit detection
+and land in baterije-pregled.csv, so the ONE weekly price job applies both. Items
+Elementa already pack-prices are detected as unit="single" (no extra x pack), so
+they stay correct automatically.
 
 How we decide a product's unit
 ------------------------------
@@ -17,14 +23,14 @@ is closer to the live price is how Hoba sells it. After the few known mispricing
 were fixed by hand, every current price reflects the real unit, so this is robust.
 
 Outputs (committed by the GitHub Action):
-  1) elementa-feed-mirror.xml  -> the Elementa feed, byte-identical EXCEPT battery
-     <lagerVp> is replaced by the correct stock for that product's unit (packages
-     for pack-sold, pieces for single-sold). Non-battery rows untouched.
+  1) elementa-feed-mirror.xml  -> the Elementa feed, byte-identical EXCEPT matched
+     rows' <lagerVp> is replaced by the correct stock for that product's unit
+     (packages for pack-sold, pieces for single-sold). Other rows untouched.
      Stock Sync imports this; its existing lagerVp->quantity mapping then yields
-     correct stock with zero mapping changes and no effect on the ~8000 others.
-  2) baterije-pregled.csv -> per battery: sku, variant id, current price, new
-     price, detected unit, pack size, Elementa pack text, piece stock, new stock,
-     and a flag. The weekly price job applies only flag=="safe" rows.
+     correct stock with zero mapping changes and no effect on the others.
+  2) baterije-pregled.csv -> per matched product: sku, variant id, current price,
+     new price, detected unit, pack size, Elementa pack text, piece stock, new
+     stock, and a flag. The weekly price job applies only flag=="safe" rows.
   3) last-run.txt -> timestamp + counts.
 
 Flags: safe (auto-applied) | charger (excluded by choice) | pakovanje-mismatch
@@ -80,7 +86,8 @@ def parse_pack_text(s):
     return int(nums[0])
 
 
-def load_hoba_batteries():
+def load_hoba_packaged():
+    """Hoba Elementa variants tagged BATERIJE or PAKOVANJE -> {norm(sku): record}."""
     out = {}
     page = 1
     while True:
@@ -94,7 +101,8 @@ def load_hoba_batteries():
                 continue
             tags = p.get("tags") or []
             tl = [t.strip().upper() for t in (tags if isinstance(tags, list) else str(tags).split(","))]
-            if "BATERIJE" not in tl:
+            # Batteries AND other pack-sold (PAKOVANJE) products use the same pipeline.
+            if "BATERIJE" not in tl and "PAKOVANJE" not in tl:
                 continue
             charger = bool(CHARGER_RE.search((p.get("title") or "") + " " + (p.get("handle") or "")))
             for v in (p.get("variants") or []):
@@ -124,7 +132,7 @@ def main():
     if products is None:
         sys.exit("Unexpected feed shape: no <products> node.")
 
-    bats = load_hoba_batteries()
+    bats = load_hoba_packaged()
     rows = []
     counts = {"feed": 0, "matched": 0, "safe": 0, "charger": 0, "big_swing": 0,
               "pakovanje_mismatch": 0, "no_feed_price": 0, "unit_pack": 0, "unit_single": 0}
