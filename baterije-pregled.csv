@@ -1,7 +1,7 @@
 sku,vid,current_price,new_price,unit,paket,pakovanje,lager_pieces,new_stock,flag,hoba_sku,title
 CAM-830B,44822538191099,1716.0,1699,single,1,,18,18,charger,CAM-830B,"Punjač akumulatora AA, AAA i 9V — Ni-MH, 4 ćelija"
 CAM-CABC-1091,46907889582331,1552.0,1536,single,1,,12,12,charger,CAM-CABC-1091,"Punjač akumulatora AA, AAA i 9V"
-DUR-20716,46640049619195,2231.0,2208,single,1,,16,16,charger,DUR-20716,Punjač akumulatora + 2 AA 1300mAh i 2 AAA 750mAh
+DUR-20716,46640049619195,2231.0,2208,single,1,,15,15,charger,DUR-20716,Punjač akumulatora + 2 AA 1300mAh i 2 AAA 750mAh
 DUR-20717,46640049488123,3492.0,3456,single,1,,10,10,charger,DUR-20717,Punjač akumulatora + 2 AA 1300mAh i 2 AAA 750mAh
 SBC2,44822538715387,2231.0,2592,single,1,,4,4,charger,SBC2,"Punjač Li-ion, Ni-MH i Ni-Cd akumulatora do 2 kom. — Li-ion, Ni-Mh"
 VAR-57652,44822538158331,1862.0,2016,single,1,,10,10,charger,VAR-57652,"Punjač Ni-MH akumulatora do 4 kom. — Ni-MH, Ni-Cd, 4 ćelija"
@@ -9,7 +9,6 @@ VAR-57652+,44822538092795,3298.0,3552,single,1,,4,4,charger,VAR-57652+,"Punjač 
 XTAR-MC1,44934275006715,679.0,672,single,1,,15,15,charger,XTAR-MC1,"USB punjač akumulatora 1 kom. — Li-ion, 1 ćelija"
 XTAR-MC2,44822535635195,1154.0,1142,single,1,,7,7,charger,XTAR-MC2,"USB punjač akumulatora do 2 kom. — Li-ion, 2 ćelija"
 XTAR-MC4S,44822536913147,3007.0,2400,single,1,,9,9,charger,XTAR-MC4S,Univerzalni USB punjač akumulatora do 4 kom. — Li-ion / Ni-Cd /
-XTAR-SC1,44822535667963,1018.0,1008,single,1,,0,0,charger,XTAR-SC1,"USB brzi punjač akumulatora 1 kom. — Li-ion, 1 ćelija"
 XTAR-SC2,44822535700731,2037.0,2016,single,1,,5,5,charger,XTAR-SC2,"USB brzi punjač akumulatora do 2 kom. — Li-ion, 2 ćelija"
 XTAR-VC2,44825207734523,2425.0,2400,single,1,,5,5,charger,XTAR-VC2,"USB punjač akumulatora do 2 kom. sa displejem — Li-ion, 2 ćelija"
 XTAR-VC8S,47547648737531,6596.0,6528,single,1,,3,3,charger,XTAR-VC8S,Univ. punjač akumulatora do 8 kom. sa displejem
@@ -43,7 +42,7 @@ CAM-CR2450/BP1,44822535766267,192.0,192,single,1,Blister 1 kom.,53,53,safe,CAM-C
 CAM-ICR18650-2.5/BP1,48435577028859,777.0,777,single,1,1 kom.,21,21,safe,CAM-ICR18650-2.5/BP1,"Camelion litijum jonska baterija 18650 2.5A 3,7V"
 CAM-ICR18650-2.6/BP1,45244613001467,739.0,739,single,1,1 kom.,43,43,safe,CAM-ICR18650-2.6/BP1,"CAMELION Baterija — 2600 mAh, 3.6 V"
 CAM-LR03-DIGI-1250/4,46663555875067,304.0,304,pack,4,Blister 4 kom.,128,32,safe,CAM-LR03-DIGI-1250/4,"CAMELION Baterija — AAA, 1.5 V"
-CAM-LR03-PB24,46279171473659,1360.0,1360,pack,24,Box 24 kom.,240,10,safe,CAM-LR03-PB24,CAMELION Baterija alkalne AAA — 1.5 V
+CAM-LR03-PB24,46279171473659,1360.0,1360,pack,24,Box 24 kom.,216,9,safe,CAM-LR03-PB24,CAMELION Baterija alkalne AAA — 1.5 V
 CAM-LR03-SP10-DA,46282498179323,567.0,567,pack,10,Celofan 10 kom.,240,24,safe,CAM-LR03-SP10-DA,CAMELION Baterija alkalne AAA — 1.5 V
 CAM-LR03/BP2,46305766277371,133.0,133,pack,2,Blister 2 kom.,104,52,safe,CAM-LR03/BP2,CAMELION Baterija alkalne AAA — 1.5 V
 CAM-LR06-SP10-DA,46281347727611,567.0,567,pack,10,Celofan 10 kom.,270,27,safe,CAM-LR06-SP10-DA,"Camelion alkalne baterije AA — 1.5 V, 10 kom"
@@ -112,7 +111,7 @@ GP-CR1616,44822531866875,115.0,115,single,1,Blister 1 kom.,63,63,safe,GP-CR1616,
 GP-CR1620,44976045981947,153.0,153,single,1,Blister 1 kom.,95,95,safe,GP-CR1620,GP dugmasta baterija CR1620 — 3 V
 GP-CR2016,44822531899643,86.0,86,single,1,Blister 1 kom.,98,98,safe,GP-CR2016,GP Baterija dugmaste litijumske CR2016 — 3 V
 GP-CR2025,44923157414139,86.0,86,single,1,Blister 1 kom.,118,118,safe,GP-CR2025,GP dugmasta baterija CR2025 — 3 V
-GP-CR2032,44822531342587,86.0,86,single,1,Blister 1 kom.,500,500,safe,GP-CR2032,GP Baterija dugmaste litijumske CR2032 — 3 V
+GP-CR2032,44822531342587,86.0,86,single,1,Blister 1 kom.,498,498,safe,GP-CR2032,GP Baterija dugmaste litijumske CR2032 — 3 V
 GP-CR2430,44822531997947,278.0,278,single,1,Blister 1 kom.,62,62,safe,GP-CR2430,GP Baterija dugmaste litijumske CR2430 — 3 V
 GP-SAG13/10,46279183499515,260.0,260,pack,10,Blister 10 kom.,460,46,safe,GP-SAG13/10,GP Baterija dugmaste alkalne LR44 — 1.5 V
 LS14250/3.6V/1.2,44822537076987,768.0,768,single,1,1 kom.,31,31,safe,LS14250/3.6V/1.2,"Saft LS litijumska baterija 1.2Ah — 3.6 V, 1200 mAh"
@@ -128,7 +127,6 @@ SC(F)-1.2/2000,44822533243131,300.0,326,single,4,4 kom.,8,8,safe,SC(F)-1.2/2000,
 SC/1.2V/3000,47031362224379,451.0,451,single,1,1 kom.,4,4,safe,SC/1.2V/3000,"AGENA Baterija — 3000 mAh, 1.2 V"
 SV5,47191389012219,2500.0,2400,pack,100,100 komada,100,1,safe,SV5,"Viljuška AMP 5,3mm — pak. 100 kom"
 T18650/2200,48435576963323,691.0,691,single,1,1 kom.,6,6,safe,T18650/2200,"Technik litijum jonska baterija 18650 2200mAh 3,7V"
-T18650/3400,48435576996091,1276.0,1276,single,1,1 kom.,0,0,safe,T18650/3400,"Technik litijum jonska baterija 18650 3400mAh 3,7V"
 VAR-3R12/BP1,44822532882683,268.0,268,single,1,Blister 1 kom.,39,39,safe,VAR-3R12/BP1,VARTA Baterija cink-karbon 3R12 — 4.5 V
 VAR-CR123A/BP1,44822533013755,537.0,537,single,1,Blister 1 kom.,61,61,safe,VAR-CR123A/BP1,VARTA Baterija litijumske CR123A — 3 V
 VAR-CR2016/BP1,44822532980987,144.0,144,single,1,Blister 1 kom.,110,110,safe,VAR-CR2016/BP1,VARTA Baterija dugmaste litijumske CR2016 — 3 V
@@ -145,7 +143,7 @@ VAR-LR20/BP2,46287871901947,536.0,536,pack,2,Blister 2 kom.,84,42,safe,VAR-LR20/
 VAR-LR6/BL10,48856672207099,663.0,759,pack,10,Blister 10 kom.,620,62,safe,VAR-LR6/BL10,Varta alkalne baterije AA Longlife — pak. 10 kom
 VAR-LR6/BP10,46279142113531,759.0,759,pack,10,Blister 10 kom.,280,28,safe,VAR-LR6/BP10,"Varta alkalne baterije AA — 1.5 V, 10 kom"
 VAR-NH-AA2100/BP4,46274325414139,1571.0,1571,pack,4,Blister 4 kom.,72,18,safe,VAR-NH-AA2100/BP4,"Varta punjive baterije AA 2100 mAh — 1.2 V, 2100 mAh, 4 kom"
-VAR-NH-AAA800/BP4,46274325774587,1187.0,1187,pack,4,Blister 4 kom.,176,44,safe,VAR-NH-AAA800/BP4,"Varta punjive baterije AAA 800 mAh — 1.2 V, 800 mAh, 4 kom"
+VAR-NH-AAA800/BP4,46274325774587,1187.0,1187,pack,4,Blister 4 kom.,164,41,safe,VAR-NH-AAA800/BP4,"Varta punjive baterije AAA 800 mAh — 1.2 V, 800 mAh, 4 kom"
 VAR-P10,46279141261563,398.0,398,pack,6,Blister 6 kom.,121,20,safe,VAR-P10,"Powerone baterije za slušni aparat P10 — 1.45 V, 105 mAh, 6 kom"
 VAR-P13,46279140835579,398.0,398,pack,6,Blister 6 kom.,36,6,safe,VAR-P13,"Powerone baterije za slušni aparat P13 — 1.45 V, 300 mAh, 6 kom"
 VAR-P675,46279139918075,398.0,398,pack,6,Blister 6 kom.,54,9,safe,VAR-P675,"Powerone baterije za slušni aparat P675 — 1.45 V, 650 mAh, 6 kom"
