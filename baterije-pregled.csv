@@ -8,7 +8,6 @@ SBC2,44822538715387,2231.0,2592,single,1,,2,2,charger,SBC2,"Punjač Li-ion, Ni-M
 VAR-57652,44822538158331,1862.0,2016,single,1,,7,7,charger,VAR-57652,"Punjač Ni-MH akumulatora do 4 kom. — Ni-MH, Ni-Cd, 4 ćelija"
 VAR-57652+,44822538092795,3298.0,3552,single,1,,4,4,charger,VAR-57652+,"Punjač Ni-MH akumulatora + 4 AA 2100 mAh — Ni-MH, Ni-Cd, 4 ćelija"
 XTAR-MC1,44934275006715,679.0,672,single,1,,9,9,charger,XTAR-MC1,"USB punjač akumulatora 1 kom. — Li-ion, 1 ćelija"
-XTAR-MC2,44822535635195,1154.0,1142,single,1,,0,0,charger,XTAR-MC2,"USB punjač akumulatora do 2 kom. — Li-ion, 2 ćelija"
 XTAR-MC4S,44822536913147,3007.0,2400,single,1,,7,7,charger,XTAR-MC4S,Univerzalni USB punjač akumulatora do 4 kom. — Li-ion / Ni-Cd /
 XTAR-SC1,44822535667963,1018.0,1008,single,1,,5,5,charger,XTAR-SC1,"XTAR SC1 USB brzi punjač akumulatora — Li-ion, 1 ćelija"
 XTAR-SC2,44822535700731,2037.0,2016,single,1,,5,5,charger,XTAR-SC2,"USB brzi punjač akumulatora do 2 kom. — Li-ion, 2 ćelija"
@@ -114,7 +113,6 @@ GP-CR2032,44822531342587,86.0,86,single,1,Blister 1 kom.,272,272,safe,GP-CR2032,
 GP-CR2430,44822531997947,278.0,278,single,1,Blister 1 kom.,59,59,safe,GP-CR2430,GP Baterija dugmaste litijumske CR2430 — 3 V
 LS14250/3.6V/1.2,44822537076987,768.0,768,single,1,1 kom.,31,31,safe,LS14250/3.6V/1.2,"Saft LS litijumska baterija 1.2Ah — 3.6 V, 1200 mAh"
 MAX-LR03/BL4,46305769554171,227.0,227,pack,4,Blister 4 kom.,2576,644,safe,MAX-LR03/BL4,MAXELL Baterija alkalne AAA — 1.5 V
-ML-WS121,44963309027579,688.0,681,single,1,,0,0,safe,ML-WS121,"Spoljna zidna lampa — 3000 K, IP44, pakovanje 3 kom."
 PCS5,47188057194747,1632.0,1632,pack,100,100 komada,200,2,safe,PCS5,Stopica AMP M — pak. 100 kom
 RK-PM81,48554449010939,471.0,471,pack,10,10 kom.,40,4,safe,RK-PM81,"Keramička redna stezaljka 2x4 mm², 15A — pak. 10 kom"
 Renata-317/10BP,46361523519739,1239.0,1239,pack,10,Blister 10 kom.,10,1,safe,RENATA-317/10BP,RENATA Baterija SR516 — 1.55 V
@@ -132,9 +130,7 @@ VAR-CR2025/BP1,44822532948219,144.0,144,single,1,Blister 1 kom.,121,121,safe,VAR
 VAR-CR2032/BP1,44822532915451,144.0,144,single,1,Blister 1 kom.,202,202,safe,VAR-CR2032/BP1,VARTA Baterija dugmaste litijumske CR2032 — 3 V
 VAR-HE-LR03/BL4,46282396565755,457.0,457,pack,4,Blister 4 kom.,320,80,safe,VAR-HE-LR03/BL4,VARTA Baterija alkalne mangan AAA — 1.5 V
 VAR-HE-LR06/BL4,46282406396155,457.0,457,pack,4,Blister 4 kom.,296,74,safe,VAR-HE-LR06/BL4,VARTA Baterija alkalne mangan AA — 1.5 V
-VAR-LR03/4BL,46288049733883,342.0,342,pack,4,Blister 4 kom.,0,0,safe,VAR-LR03/4BL,"VARTA Baterija alkalne AAA (LR03) — 1.5 V, 4 kom."
 VAR-LR03/BL10,48856671420667,759.0,759,pack,10,Blister 10 kom.,50,5,safe,VAR-LR03/BL10,Varta alkalne baterije AAA Longlife — pak. 10 kom
-VAR-LR03/BP10,46274290057467,759.0,759,pack,10,Blister 10 kom.,0,0,safe,VAR-LR03/BP10,"VARTA Baterija — AAA, 1.5 V"
 VAR-LR06/BP4,46305917108475,342.0,342,pack,4,Blister 4 kom.,216,54,safe,VAR-LR06/BP4,VARTA Baterija alkalne mangan AA — 1.5 V
 VAR-LR14/2BL,46287861842171,383.0,383,pack,2,Blister 2 kom.,72,36,safe,VAR-LR14/2BL,VARTA Baterija alkalne mangan C — 1.5 V
 VAR-LR20/BP2,46287871901947,536.0,536,pack,2,Blister 2 kom.,82,41,safe,VAR-LR20/BP2,"VARTA Baterija alkalne mangan D (LR20) — 1.5 V, 2 kom."
