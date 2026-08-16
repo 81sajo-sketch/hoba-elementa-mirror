@@ -1,6 +1,7 @@
 sku,vid,current_price,new_price,unit,paket,pakovanje,lager_pieces,new_stock,flag,hoba_sku,title
 CAM-830B,44822538191099,1716.0,1699,single,1,,8,8,charger,CAM-830B,"Punjač akumulatora AA, AAA i 9V — Ni-MH, 4 ćelija"
 CAM-CABC-1091,46907889582331,1552.0,1536,single,1,,10,10,charger,CAM-CABC-1091,"Punjač akumulatora AA, AAA i 9V"
+DUR-20716,46640049619195,2231.0,2208,single,1,,21,21,charger,DUR-20716,Punjač akumulatora + 2 AA 1300mAh i 2 AAA 750mAh
 DUR-20717,46640049488123,3492.0,3456,single,1,,12,12,charger,DUR-20717,Punjač akumulatora + 2 AA 1300mAh i 2 AAA 750mAh
 MS-5D84H,49062701891835,630.0,624,single,1,,150,150,charger,MS-5D84H,"Inteligentni punjač za Li-ion akumulatore MS-5D84H — 4 kanala, USB-C"
 SBC2,44822538715387,2231.0,2592,single,1,,2,2,charger,SBC2,"Punjač Li-ion, Ni-MH i Ni-Cd akumulatora do 2 kom. — Li-ion, Ni-Mh"
@@ -29,7 +30,6 @@ CAM-1632/BP1,44825207472379,96.0,96,single,1,Blister 1 kom.,51,51,safe,CAM-1632/
 CAM-2430/BP1,44822535536891,192.0,192,single,1,Blister 1 kom.,22,22,safe,CAM-2430/BP1,Camelion dugmasta baterija CR2430 — 3 V
 CAM-3LR12/BP1,44822534979835,278.0,278,single,1,Blister 1 kom.,20,20,safe,CAM-3LR12/BP1,Camelion alkalna baterija 4.5V 3LR12 — 4.5 V
 CAM-605/BP1,44822535340283,393.0,393,single,1,Blister 1 kom.,11,11,safe,CAM-605/BP1,Camelion litijumska baterija CR2 — 3 V
-CAM-608/BP1,44822535373051,393.0,393,single,1,Blister 1 kom.,0,0,safe,CAM-608/BP1,Camelion litijumska baterija CR123A — 3 V
 CAM-6LR61/BP1,44822533406971,278.0,278,single,1,Blister 1 kom.,93,93,safe,CAM-6LR61/BP1,CAMELION Baterija alkalne 6LR61 — 9 V
 CAM-AG10/BP10,45208003346683,260.0,260,pack,10,Blister 10 kom.,130,13,safe,CAM-AG10/BP10,CAMELION Baterija LR54 — 1.5 V
 CAM-CR1616/BP1,44822534717691,96.0,96,single,1,Blister 1 kom.,9,9,safe,CAM-CR1616/BP1,CAMELION Baterija dugmaste litijumske CR1616 — 3 V
@@ -51,7 +51,6 @@ CAM-NH-AA2500/BP2,46279170916603,901.0,901,pack,2,Blister 2 kom.,58,29,safe,CAM-
 CAM-NH-AAA600/BP4,46274323775739,1033.0,1033,pack,4,Blister 4 kom.,100,25,safe,CAM-NH-AAA600/BP4,"Camelion punjive baterije AAA 600 mAh — 1.2 V, 600 mAh, 4 kom"
 CAM-NH-AAA800/BP2,46282423206139,536.0,536,pack,2,Blister 2 kom.,66,33,safe,CAM-NH-AAA800/BP2,CAMELION Baterija punjiva AAA — 1.2 V 800 mAh
 CAM-R03P/BP4,46282488545531,120.0,120,pack,4,Blister 4 kom.,28,7,safe,CAM-R03P/BP4,CAMELION Baterija cink-karbon AAA — 1.5 V
-CAM-R6P/BP4G,46282481369339,120.0,120,pack,4,Blister 4 kom.,0,0,safe,CAM-R6P/BP4G,"CAMELION Baterija cink-karbon AA (R6) — 1.5 V, 4 kom."
 CMK-202,48897516241147,267.0,267,pack,20,20 kom.,6200,310,safe,CMK-202,"Ubodna klemna 2P, 450V/24A, 0.5-2.5 mm² — pak. 20 kom"
 CMK-203,48897516339451,348.0,348,pack,20,20 kom.,6280,314,safe,CMK-203,"Ubodna klemna 3P, 450V/24A, 0.5-2.5 mm² — pak. 20 kom"
 CMK-204,48897516372219,404.0,404,pack,20,20 kom.,2820,141,safe,CMK-204,"Ubodna klemna 4P, 450V/24A, 0.5-2.5 mm² — pak. 20 kom"
@@ -112,7 +111,6 @@ ML-WS126,45984486326523,999.0,988,single,1,,10,10,safe,ML-WS126,"MODEE solarna z
 PCS5,47188057194747,1632.0,1632,pack,100,100 komada,200,2,safe,PCS5,Stopica AMP M — pak. 100 kom
 RK-PM81,48554449010939,471.0,471,pack,10,10 kom.,40,4,safe,RK-PM81,"Keramička redna stezaljka 2x4 mm², 15A — pak. 10 kom"
 Renata-317/10BP,46361523519739,1239.0,1239,pack,10,Blister 10 kom.,0,0,safe,RENATA-317/10BP,RENATA Baterija SR516 — 1.55 V
-Renata-379/10BP,47406079181051,855.0,855,pack,10,Blister 10 kom.,0,0,safe,Renata-379/10BP,Renata srebro oksid baterija SR521 — pak. 10 kom
 Renata-CR2325,47884518654203,201.0,201,single,1,Blister 1 kom.,6,6,safe,Renata-CR2325,Renata dugmasta litijumska baterija CR2325
 Renata-CR2430,46972114469115,211.0,211,single,1,Blister 1 kom.,5,5,safe,RENATA-CR2430,"RENATA Baterija — CR2430, 3 V"
 SC(F)-1.2/2000,44822533243131,326.0,326,single,4,4 kom.,8,8,safe,SC(F)-1.2/2000,AGENA Baterija punjiva SC — 1.2 V 2000 mAh
