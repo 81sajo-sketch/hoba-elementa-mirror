@@ -6,7 +6,9 @@ DUR-20717,46640049488123,3492.0,3456,single,1,,12,12,charger,DUR-20717,Punjač a
 MS-5D84H,49062701891835,630.0,624,single,1,,150,150,charger,MS-5D84H,"Inteligentni punjač za Li-ion akumulatore MS-5D84H — 4 kanala, USB-C"
 SBC2,44822538715387,2231.0,2592,single,1,,2,2,charger,SBC2,"Punjač Li-ion, Ni-MH i Ni-Cd akumulatora do 2 kom. — Li-ion, Ni-Mh"
 VAR-57652,44822538158331,1862.0,2016,single,1,,6,6,charger,VAR-57652,"Punjač Ni-MH akumulatora do 4 kom. — Ni-MH, Ni-Cd, 4 ćelija"
+VAR-57652+,44822538092795,3298.0,3552,single,1,,8,8,charger,VAR-57652+,"Punjač Ni-MH akumulatora + 4 AA 2100 mAh — Ni-MH, Ni-Cd, 4 ćelija"
 XTAR-MC1,44934275006715,679.0,672,single,1,,9,9,charger,XTAR-MC1,"USB punjač akumulatora 1 kom. — Li-ion, 1 ćelija"
+XTAR-MC2,44822535635195,1154.0,1142,single,1,,10,10,charger,XTAR-MC2,"USB punjač akumulatora do 2 kom. — Li-ion, 2 ćelija"
 XTAR-MC4S,44822536913147,3007.0,2400,single,1,,7,7,charger,XTAR-MC4S,Univerzalni USB punjač akumulatora do 4 kom. — Li-ion / Ni-Cd /
 XTAR-SC1,44822535667963,1018.0,1008,single,1,,5,5,charger,XTAR-SC1,"XTAR SC1 USB brzi punjač akumulatora — Li-ion, 1 ćelija"
 XTAR-SC2,44822535700731,2037.0,2016,single,1,,5,5,charger,XTAR-SC2,"USB brzi punjač akumulatora do 2 kom. — Li-ion, 2 ćelija"
