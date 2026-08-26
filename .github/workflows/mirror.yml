@@ -4,10 +4,15 @@ name: Elementa battery feed mirror
 # battery price/stock review CSV. Stock Sync imports the XML; the weekly price
 # job reads the CSV. Runs daily so package stock stays fresh; price changes are
 # only as frequent as Elementa actually changes them.
+#
+# 2026-08-26: added the "Mail the review CSV" step. The weekly price job can no
+# longer fetch the raw GitHub URLs unattended (web_fetch only accepts URLs that
+# came from a human's message, and a scheduled run has none), so the mirror now
+# pushes the CSV to it by email instead. See send_mail.py.
 
 on:
   schedule:
-    - cron: "0 5 * * *"        # daily 05:00 UTC  (change to "0 5 * * 1" for weekly / Mondays)
+    - cron: "0 5 * * *"   # daily 05:00 UTC (change to "0 5 * * 1" for weekly / Mondays)
   workflow_dispatch: {}
 
 permissions:
@@ -38,7 +43,7 @@ jobs:
 
       - name: Commit if changed
         run: |
-          git config user.name  feed-bot
+          git config user.name feed-bot
           git config user.email feed-bot@users.noreply.github.com
           git add elementa-feed-mirror.xml baterije-pregled.csv last-run.txt
           if git diff --cached --quiet; then
@@ -47,3 +52,13 @@ jobs:
             git commit -m "Update Elementa battery mirror $(date -u +%FT%TZ)"
             git push
           fi
+
+      # Runs on EVERY successful build, including no-change runs: the price job
+      # uses a fresh message as its liveness signal, so silence must mean
+      # "broken", never "nothing changed". Deliberately NOT conditional.
+      - name: Mail the review CSV to the price job
+        env:
+          MAIL_USER: ${{ secrets.MAIL_USER }}
+          MAIL_PASS: ${{ secrets.MAIL_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python send_mail.py
