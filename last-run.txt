@@ -1,5 +1,5 @@
-Last successful run: 2026-09-02T09:15:51Z
-feed: 8565
+Last successful run: 2026-09-03T09:24:20Z
+feed: 8566
 matched: 132
 safe: 106
 charger: 16
