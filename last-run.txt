@@ -1,4 +1,4 @@
-Last successful run: 2026-09-12T08:59:25Z
+Last successful run: 2026-09-13T09:56:07Z
 feed: 8568
 matched: 126
 safe: 101
