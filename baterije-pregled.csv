@@ -18,8 +18,8 @@ BN207824,45021496574203,329.0,326,single,1,2 kom.,12,12,pakovanje-mismatch,BN207
 BN207825,45021496410363,194.0,192,single,1,2 kom.,2,2,pakovanje-mismatch,BN207825,Organizator kablova 2 kom.
 BN207826,45021496508667,320.0,316,single,1,"2 x šestostruki, 2 x trostruki, 6 x jednostruki",6,6,pakovanje-mismatch,BN207826,Organizator kablova 10 kom.
 CMK-422-4,48897516306683,87.0,86,single,5,10 kom.,2200,2200,pakovanje-mismatch,CMK-422-4,"Bezvij. spojnica-klemna, 2P/4P 0.2-4 mm² 450V/32A — pak. 10 kom"
-CT-SET,45021493395707,291.0,288,single,1,100 kom.,56,56,pakovanje-mismatch,CT-SET,Set kablovskih vezica - 100 kom.
-"CT150/3,5/B",45021490839803,145.0,144,single,1,50 kom.,191,191,pakovanje-mismatch,"CT150/3,5/B","Kablovske vezice 150×3,5 mm — pakovanje 50 kom."
+CT-SET,45021493395707,291.0,288,single,1,100 kom.,126,126,pakovanje-mismatch,CT-SET,Set kablovskih vezica - 100 kom.
+"CT150/3,5/B",45021490839803,145.0,144,single,1,50 kom.,181,181,pakovanje-mismatch,"CT150/3,5/B","Kablovske vezice 150×3,5 mm — pakovanje 50 kom."
 DUR-AG13/BP5,46332412330235,164.0,172,single,5,Blister 10 kom.,91,91,pakovanje-mismatch,DUR-AG13/BP5,Duracell dugmaste baterije LR44 (2kom.) — 1.5 V
 Energizer-CR2450,48433522901243,232.0,230,single,2,Blister 1 kom.,32,32,pakovanje-mismatch,Energizer-CR2450,Energizer dugmasta litijumska baterija CR2450 1/2
 M700AAA,44822531375355,604.0,604,single,1,Blister 4 kom.,143,143,pakovanje-mismatch,M700AAA,HOME Baterija punjiva AAA — 1.2 V 700 mAh
@@ -32,7 +32,7 @@ CAM-3LR12/BP1,44822534979835,278.0,278,single,1,Blister 1 kom.,8,8,safe,CAM-3LR1
 CAM-605/BP1,44822535340283,393.0,393,single,1,Blister 1 kom.,1,1,safe,CAM-605/BP1,Camelion litijumska baterija CR2 — 3 V
 CAM-6LR61/BP1,44822533406971,278.0,278,single,1,Blister 1 kom.,47,47,safe,CAM-6LR61/BP1,CAMELION Baterija alkalne 6LR61 — 9 V
 CAM-AG10/BP10,45208003346683,260.0,260,pack,10,Blister 10 kom.,90,9,safe,CAM-AG10/BP10,CAMELION Baterija LR54 — 1.5 V
-CAM-CR1616/BP1,44822534717691,96.0,96,single,1,Blister 1 kom.,0,0,safe,CAM-CR1616/BP1,CAMELION Baterija dugmaste litijumske CR1616 — 3 V
+CAM-CR1616/BP1,44822534717691,96.0,96,single,1,Blister 1 kom.,18,18,safe,CAM-CR1616/BP1,CAMELION Baterija dugmaste litijumske CR1616 — 3 V
 CAM-CR1620/BP5,44822534652155,96.0,96,single,5,Blister 5 kom.,10,10,safe,CAM-CR1620/BP5,CAMELION Baterija dugmaste litijumske CR1620 — 3 V
 CAM-CR2016/BP5,46282453451003,332.0,332,pack,5,Blister 5 kom.,110,22,safe,CAM-CR2016/BP5,CAMELION Baterija dugmaste litijumske CR2016 — 3 V
 CAM-CR2025/BP5,46274319581435,332.0,332,pack,5,Blister 5 kom.,70,14,safe,CAM-CR2025/BP5,"Camelion dugmaste baterije CR2025 — 3 V, 5 kom"
@@ -65,7 +65,7 @@ CR2-3V,44822535110907,384.0,393,single,1,Blister 1 kom.,48,48,safe,CR2-3V,"Panas
 DUR-6LF22/BP1,47476093387003,537.0,537,single,1,Blister 1 kom.,87,87,safe,DUR-6LF22/BP1,Duracell alkalna baterija 9V
 DUR-CR2016/BP5,46279149125883,860.0,860,pack,5,Blister 5 kom.,95,19,safe,DUR-CR2016/BP5,"Duracell dugmaste baterije CR2016 — 3 V, 5 kom"
 DUR-CR2025/BP5,46287957393659,860.0,860,pack,5,Blister 5 kom.,60,12,safe,DUR-CR2025/BP5,"Duracell dugmaste baterije CR2025 — 3 V, 5 kom"
-DUR-CR2032/BP5,47476093354235,172.0,172,single,5,Blister 5 kom.,255,255,safe,DUR-CR2032/BP5,Duracell dugmaste baterije CR2032
+DUR-CR2032/BP5,47476093354235,172.0,172,single,5,Blister 5 kom.,250,250,safe,DUR-CR2032/BP5,Duracell dugmaste baterije CR2032
 DUR-HA10/BP6,48856668045563,628.0,628,pack,6,Blister 6 kom.,192,32,safe,DUR-HA10/BP6,Duracell baterije za slušni aparat Aid 10 — pak. 6 kom
 DUR-HA13/BP6,48843153473787,628.0,628,pack,6,Blister 6 kom.,12,2,safe,DUR-HA13/BP6,Duracell baterije za slušni aparat Aid 13 — pak. 6 kom
 DUR-HA312/BP6,48843158716667,628.0,628,pack,6,Blister 6 kom.,162,27,safe,DUR-HA312/BP6,Duracell baterije za slušni aparat Aid 312 — pak. 6 kom
@@ -73,11 +73,11 @@ DUR-HA675/BP6,48856668930299,628.0,628,pack,6,Blister 6 kom.,192,32,safe,DUR-HA6
 DUR-LR03/6BP,46279153025275,628.0,628,pack,6,Blister 6 kom.,1512,252,safe,DUR-LR03/6BP,"Duracell alkalne baterije AAA — 1.5 V, 6 kom"
 DUR-LR03/BP2,46279175471355,287.0,287,pack,2,Blister 2 kom.,68,34,safe,DUR-LR03/BP2,DURACELL Baterija alkalne AAA — 1.5 V
 DUR-LR14/BP2,46279176257787,575.0,575,pack,2,Blister 2 kom.,118,59,safe,DUR-LR14/BP2,DURACELL Baterija alkalne C — 1.5 V
-DUR-LR20/BP2,46279179403515,575.0,575,pack,2,Blister 2 kom.,70,35,safe,DUR-LR20/BP2,DURACELL Baterija alkalne C — 1.5 V
+DUR-LR20/BP2,46279179403515,575.0,575,pack,2,Blister 2 kom.,50,25,safe,DUR-LR20/BP2,DURACELL Baterija alkalne C — 1.5 V
 DUR-LR6/6BP,46279154172155,628.0,628,pack,6,Blister 6 kom.,1590,265,safe,DUR-LR6/6BP,"Duracell alkalne baterije AA — 1.5 V, 6 kom"
 DUR-LR6/BP2,46279182450939,287.0,287,pack,2,Blister 2 kom.,132,66,safe,DUR-LR6/BP2,DURACELL Baterija alkalne AA — 1.5 V
 DUR-LR6/BP4,46279173636347,534.0,534,pack,4,Blister 4 kom.,192,48,safe,DUR-LR6/BP4,DURACELL Baterija alkalne AA — 1.5 V
-DUR-NH-AA2500/BP4n,46274310471931,2185.0,2185,pack,4,Blister 4 kom.,156,39,safe,DUR-NH-AA2500/BP4N,"DURACELL Baterija — AA, 2500 mAh, 1.2 V"
+DUR-NH-AA2500/BP4n,46274310471931,2185.0,2185,pack,4,Blister 4 kom.,148,37,safe,DUR-NH-AA2500/BP4N,"DURACELL Baterija — AA, 2500 mAh, 1.2 V"
 DUR-NH-AAA750/BP2n,46274314961147,882.0,882,pack,2,Blister 2 kom.,36,18,safe,DUR-NH-AAA750/BP2N,"DURACELL Baterija — AAA, 750 mAh, 1.2 V"
 DUR-NH-AAA750/BP4n,46877191766267,1648.0,1648,pack,4,Blister 4 kom.,200,50,safe,DUR-NH-AAA750/BP4N,"DURACELL Baterija — AAA, 750 mAh, 1.2 V"
 DUR-OPT-LR03/BP4,46279145947387,649.0,649,pack,4,Blister 4 kom.,124,31,safe,DUR-OPT-LR03/BP4,"Duracell alkalne baterije AAA — 1.5 V, 4 kom"
@@ -86,16 +86,16 @@ DUR-OPT-LR6/BP4,46279145488635,649.0,649,pack,4,Blister 4 kom.,124,31,safe,DUR-O
 DUR-OPT-LR6/BP8,46279144374523,1222.0,1222,pack,8,Blister 8 kom.,144,18,safe,DUR-OPT-LR6/BP8,"Duracell alkalne baterije AA — 1.5 V, 8 kom"
 ER14250H/3.6V/1.2,46661186027771,355.0,355,single,1,1 kom.,11,11,safe,ER14250H/3.6V/1.2,FANSO Baterija — 3.6 V
 ER14505H/3.6V/2.7,44822537044219,729.0,729,single,1,1 kom.,8,8,safe,ER14505H/3.6V/2.7,"Fanso litijumska baterija 2.7Ah — 3.6 V, 2700 mAh"
-EVHR22-550C,46361030820091,2016.0,2016,single,1,1 kom.,1,1,safe,EVHR22-550C,"EVERACTIVE Baterija Block (HR6F22) — 550 mAh, 7.4 V"
-GP-23A,44976045818107,96.0,96,single,1,Blister 1 kom.,0,0,safe,GP-23A,GP visokonaponska alkalna baterija 23A — 12 V
-GP-910A-U2,46279184449787,229.0,229,pack,2,Blister 2 kom.,20,10,safe,GP-910A-U2,GP Baterija alkalne N — 1.5 V
-GP-CR1220,44822531834107,96.0,96,single,1,Blister 1 kom.,96,96,safe,GP-CR1220,GP Baterija dugmaste litijumske CR1220 — 3 V
-GP-CR123A-U1,44976045916411,441.0,441,single,1,Blister 1 kom.,39,39,safe,GP-CR123A-U1,GP litijumska baterija CR123A — 3 V
-GP-CR1616,44822531866875,115.0,115,single,1,Blister 1 kom.,20,20,safe,GP-CR1616,GP Baterija dugmaste litijumske CR1616 — 3 V
-GP-CR1620,44976045981947,153.0,153,single,1,Blister 1 kom.,64,64,safe,GP-CR1620,GP dugmasta baterija CR1620 — 3 V
-GP-CR2016,44822531899643,86.0,86,single,1,Blister 1 kom.,33,33,safe,GP-CR2016,GP Baterija dugmaste litijumske CR2016 — 3 V
+EVHR22-550C,46361030820091,2016.0,2016,single,1,1 kom.,11,11,safe,EVHR22-550C,"EVERACTIVE Baterija Block (HR6F22) — 550 mAh, 7.4 V"
+GP-23A,44976045818107,96.0,96,single,1,Blister 1 kom.,400,400,safe,GP-23A,GP visokonaponska alkalna baterija 23A — 12 V
+GP-910A-U2,46279184449787,229.0,229,pack,2,Blister 2 kom.,80,40,safe,GP-910A-U2,GP Baterija alkalne N — 1.5 V
+GP-CR1220,44822531834107,96.0,96,single,1,Blister 1 kom.,91,91,safe,GP-CR1220,GP Baterija dugmaste litijumske CR1220 — 3 V
+GP-CR123A-U1,44976045916411,441.0,441,single,1,Blister 1 kom.,99,99,safe,GP-CR123A-U1,GP litijumska baterija CR123A — 3 V
+GP-CR1616,44822531866875,115.0,115,single,1,Blister 1 kom.,70,70,safe,GP-CR1616,GP Baterija dugmaste litijumske CR1616 — 3 V
+GP-CR1620,44976045981947,153.0,153,single,1,Blister 1 kom.,114,114,safe,GP-CR1620,GP dugmasta baterija CR1620 — 3 V
+GP-CR2016,44822531899643,86.0,86,single,1,Blister 1 kom.,83,83,safe,GP-CR2016,GP Baterija dugmaste litijumske CR2016 — 3 V
 GP-CR2025,44923157414139,86.0,86,single,1,Blister 1 kom.,118,118,safe,GP-CR2025,GP dugmasta baterija CR2025 — 3 V
-GP-CR2032,44822531342587,86.0,86,single,1,Blister 1 kom.,848,848,safe,GP-CR2032,GP Baterija dugmaste litijumske CR2032 — 3 V
+GP-CR2032,44822531342587,86.0,86,single,1,Blister 1 kom.,835,835,safe,GP-CR2032,GP Baterija dugmaste litijumske CR2032 — 3 V
 GP-CR2430,44822531997947,278.0,278,single,1,Blister 1 kom.,46,46,safe,GP-CR2430,GP Baterija dugmaste litijumske CR2430 — 3 V
 LS14250/3.6V/1.2,44822537076987,768.0,768,single,1,1 kom.,27,27,safe,LS14250/3.6V/1.2,"Saft LS litijumska baterija 1.2Ah — 3.6 V, 1200 mAh"
 MAX-LR03/BL4,46305769554171,227.0,227,pack,4,Blister 4 kom.,3028,757,safe,MAX-LR03/BL4,MAXELL Baterija alkalne AAA — 1.5 V
@@ -118,6 +118,6 @@ VAR-LR06/BP4,46305917108475,342.0,342,pack,4,Blister 4 kom.,528,132,safe,VAR-LR0
 VAR-LR14/2BL,46287861842171,383.0,383,pack,2,Blister 2 kom.,138,69,safe,VAR-LR14/2BL,VARTA Baterija alkalne mangan C — 1.5 V
 VAR-LR20/BP2,46287871901947,536.0,536,pack,2,Blister 2 kom.,158,79,safe,VAR-LR20/BP2,"VARTA Baterija alkalne mangan D (LR20) — 1.5 V, 2 kom."
 VAR-LR6/BL10,48856672207099,759.0,759,pack,10,Blister 10 kom.,380,38,safe,VAR-LR6/BL10,Varta alkalne baterije AA Longlife — pak. 10 kom
-VAR-NH-AA2100/BP4,46274325414139,1571.0,1571,pack,4,Blister 4 kom.,132,33,safe,VAR-NH-AA2100/BP4,"Varta punjive baterije AA 2100 mAh — 1.2 V, 2100 mAh, 4 kom"
-VAR-NH-AAA800/BP4,46274325774587,1187.0,1187,pack,4,Blister 4 kom.,136,34,safe,VAR-NH-AAA800/BP4,"Varta punjive baterije AAA 800 mAh — 1.2 V, 800 mAh, 4 kom"
+VAR-NH-AA2100/BP4,46274325414139,1571.0,1571,pack,4,Blister 4 kom.,128,32,safe,VAR-NH-AA2100/BP4,"Varta punjive baterije AA 2100 mAh — 1.2 V, 2100 mAh, 4 kom"
+VAR-NH-AAA800/BP4,46274325774587,1187.0,1187,pack,4,Blister 4 kom.,128,32,safe,VAR-NH-AAA800/BP4,"Varta punjive baterije AAA 800 mAh — 1.2 V, 800 mAh, 4 kom"
 VAR-P10,46279141261563,398.0,398,pack,6,Blister 6 kom.,73,12,safe,VAR-P10,"Powerone baterije za slušni aparat P10 — 1.45 V, 105 mAh, 6 kom"
