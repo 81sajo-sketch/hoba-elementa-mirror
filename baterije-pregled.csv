@@ -1,7 +1,7 @@
 sku,vid,current_price,new_price,unit,paket,pakovanje,lager_pieces,new_stock,flag,hoba_sku,title
 CAM-BC086T,49347409838331,717.0,710,single,1,,5,5,charger,CAM-BC086T,"Camelion USB punjač BC-0806T — 2× AA/AAA, Ni-MH i Ni-Cd, tajmer 8 h"
 CAM-CABC-1091,46907889582331,1552.0,1536,single,1,,2,2,charger,CAM-CABC-1091,"Punjač akumulatora AA, AAA i 9V"
-CAM-CABC-1092M,68274754552059,1716.0,1699,single,1,,5,5,charger,CAM-CABC-1092M,"CAMELION punjač akumulatora BC-1092M-DM — 4× AA/AAA, 2× 9 V"
+CAM-CABC-1092M,68274754552059,1716.0,1699,single,1,,4,4,charger,CAM-CABC-1092M,"CAMELION punjač akumulatora BC-1092M-DM — 4× AA/AAA, 2× 9 V"
 DUR-20716,46640049619195,2231.0,2208,single,1,,1,1,charger,DUR-20716,Punjač akumulatora + 2 AA 1300mAh i 2 AAA 750mAh
 DUR-20717,46640049488123,3492.0,3456,single,1,,9,9,charger,DUR-20717,Punjač akumulatora + 2 AA 1300mAh i 2 AAA 750mAh
 MS-5D84H,49062701891835,630.0,624,single,1,,110,110,charger,MS-5D84H,"Inteligentni punjač za Li-ion akumulatore MS-5D84H — 4 kanala, USB-C"
@@ -57,7 +57,7 @@ CMK-633,47158483452155,634.0,634,pack,20,20 kom.,2980,149,safe,CMK-633,"Bezvija�
 CMK-634,48894117183739,730.0,730,pack,20,20 kom.,1840,92,safe,CMK-634,"Bezvijačna spojnica-klemna, 4P 0.2-2.5 mm² 450V/32A — pak. 20 kom"
 CMK-635,48894117806331,826.0,826,pack,20,20 kom.,2000,100,safe,CMK-635,"Bezvijačna spojnica-klemna, 5P 0.2-2.5 mm² 450V/32A — pak. 20 kom"
 CMK823-1.5/3P,48897516503291,240.0,240,pack,20,20 kom.,4240,212,safe,CMK823-1.5/3P,"Bezvijačna luster klemna 3P, 400V/5A, 0.2-1.5 mm² — pak. 20 kom"
-CR2-3V,44822535110907,384.0,393,single,1,Blister 1 kom.,29,29,safe,CR2-3V,"Panasonic litijumska baterija CR2 — 3 V, 850 mAh"
+CR2-3V,44822535110907,393.0,393,single,1,Blister 1 kom.,29,29,safe,CR2-3V,"Panasonic litijumska baterija CR2 — 3 V, 850 mAh"
 CTMB01,45021492904187,327.0,327,pack,100,100 kom.,167701,1677,safe,CTMB01,"PVC držač kablovske vezice — 19 × 19 mm, pak. 100 kom"
 DUR-6LF22/BP1,47476093387003,537.0,537,single,1,Blister 1 kom.,99,99,safe,DUR-6LF22/BP1,Duracell alkalna baterija 9V
 DUR-CR2016/BP5,46279149125883,860.0,860,pack,5,Blister 5 kom.,90,18,safe,DUR-CR2016/BP5,"Duracell dugmaste baterije CR2016 — 3 V, 5 kom"
