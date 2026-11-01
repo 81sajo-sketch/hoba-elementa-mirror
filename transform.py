@@ -162,6 +162,7 @@ def main():
         paket = num("paket", int, 1) or 1
         lager = num("lagerVp", int, 0)
         pak_text = attr("Pakovanje")
+        pak_count = parse_pack_text(pak_text)
         cur = rec["price"]
 
         single_p = math.ceil(cena * DISCOUNT) if cena > 0 else 0
@@ -177,11 +178,17 @@ def main():
         else:
             unit = "pack"
         new_price = pack_p if unit == "pack" else single_p
-        new_qty = (lager // paket) if unit == "pack" else lager
+        # Elementa's <paket> and its "Pakovanje" text sometimes disagree (CMK-422-4:
+        # paket=5 but "10 kom.", and it really is a 10-pack). Such a row is flagged
+        # pakovanje-mismatch so the PRICE job skips it, but the stock written into the
+        # mirror XML below used <paket> regardless, which overstated hoba.rs 2x. On
+        # disagreement divide by the LARGER count: understating availability is the
+        # safe direction for a supplier-stock location.
+        stock_div = max(paket, pak_count) if (pak_count is not None and pak_count != paket) else paket
+        new_qty = (lager // stock_div) if unit == "pack" else lager
         counts["unit_pack" if unit == "pack" else "unit_single"] += 1
 
         # ---- flag ----
-        pak_count = parse_pack_text(pak_text)
         if cena <= 0:
             flag = "no-feed-price"; counts["no_feed_price"] += 1
         elif rec["charger"]:
