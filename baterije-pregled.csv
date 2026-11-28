@@ -95,12 +95,12 @@ GP-23A,44976045818107,96.0,96,single,1,Blister 1 kom.,122,122,safe,GP-23A,GP vis
 GP-27A,44822531801339,115.0,115,single,1,Blister 1 kom.,165,165,safe,GP-27A,GP Baterija alkalne 27A — 12 V
 GP-910A-U2,46279184449787,229.0,229,pack,2,Blister 2 kom.,54,27,safe,GP-910A-U2,GP Baterija alkalne N — 1.5 V
 GP-CR1220,44822531834107,96.0,96,single,1,Blister 1 kom.,61,61,safe,GP-CR1220,GP Baterija dugmaste litijumske CR1220 — 3 V
-GP-CR123A-U1,44976045916411,441.0,441,single,1,Blister 1 kom.,34,34,safe,GP-CR123A-U1,GP litijumska baterija CR123A — 3 V
+GP-CR123A-U1,44976045916411,441.0,480,single,1,Blister 1 kom.,34,34,safe,GP-CR123A-U1,GP litijumska baterija CR123A — 3 V
 GP-CR1616,44822531866875,115.0,115,single,1,Blister 1 kom.,47,47,safe,GP-CR1616,GP Baterija dugmaste litijumske CR1616 — 3 V
 GP-CR1620,44976045981947,153.0,153,single,1,Blister 1 kom.,61,61,safe,GP-CR1620,GP dugmasta baterija CR1620 — 3 V
 GP-CR2016,44822531899643,86.0,86,single,1,Blister 1 kom.,94,94,safe,GP-CR2016,GP Baterija dugmaste litijumske CR2016 — 3 V
 GP-CR2430,44822531997947,278.0,278,single,1,Blister 1 kom.,53,53,safe,GP-CR2430,GP Baterija dugmaste litijumske CR2430 — 3 V
-GP-SAG13/10,46279183499515,260.0,260,pack,10,Blister 10 kom.,82,8,safe,GP-SAG13/10,GP Baterija dugmaste alkalne LR44 — 1.5 V
+GP-SAG13/10,46279183499515,260.0,260,pack,10,Blister 10 kom.,62,6,safe,GP-SAG13/10,GP Baterija dugmaste alkalne LR44 — 1.5 V
 LS14250/3.6V/1.2,44822537076987,768.0,931,single,1,1 kom.,10,10,safe,LS14250/3.6V/1.2,"Saft LS litijumska baterija 1.2Ah — 3.6 V, 1200 mAh"
 MAX-LR03/BL4,46305769554171,227.0,227,pack,4,Blister 4 kom.,1572,393,safe,MAX-LR03/BL4,MAXELL Baterija alkalne AAA — 1.5 V
 PCS5,47188057194747,1632.0,1632,pack,100,100 komada,200,2,safe,PCS5,Stopica AMP M — pak. 100 kom
@@ -126,4 +126,3 @@ VAR-NH-AA2100/BP4,46274325414139,1571.0,1571,pack,4,Blister 4 kom.,236,59,safe,V
 VAR-NH-AAA800/BP4,46274325774587,1187.0,1187,pack,4,Blister 4 kom.,240,60,safe,VAR-NH-AAA800/BP4,"Varta punjive baterije AAA 800 mAh — 1.2 V, 800 mAh, 4 kom"
 VAR-P10,46279141261563,398.0,398,pack,6,Blister 6 kom.,97,16,safe,VAR-P10,"Powerone baterije za slušni aparat P10 — 1.45 V, 105 mAh, 6 kom"
 VAR-P675,46279139918075,398.0,398,pack,6,Blister 6 kom.,36,6,safe,VAR-P675,"Powerone baterije za slušni aparat P675 — 1.45 V, 650 mAh, 6 kom"
-VAR-VELR03/24,47064155291899,1360.0,1360,pack,24,Blister 24 kom.,0,0,safe,VAR-VELR03/24,"VARTA Alkalna baterija — AAA, 1.5 V"
